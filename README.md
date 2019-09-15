@@ -1,5 +1,5 @@
 # LoRaWan-Arduino
-Single channel sniffer
+Lorawan packet sniffer
 
 Sniff.ino - Arduino code to sniff the lora packets from the mentioned bands.
 
